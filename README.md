@@ -5,3 +5,5 @@
 * [Python图片转字符画](https://github.com/wfatestaynight/otherproject/blob/master/python/imagetocode.py "需要用到Python库")
 
 * [Docker学习网站](https://github.com/wfatestaynight/otherproject/blob/master/Docker/DockerLearning.md "Docker学习网站")
+
+* [Http Get请求与Post请求的相互转换](https://github.com/wfatestaynight/otherproject/tree/master/get_post "Http Get请求与Post请求的相互转换")
