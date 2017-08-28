@@ -8,9 +8,10 @@ from BaseHTTPServer import *
 from SocketServer import ThreadingMixIn
 
 
-def webPostCommand(url, data, to):
+def webPostCommand(url, params, to):
 	try:
-		request = urllib2.Request(url, data=data)
+		headers = {'Content-Type': 'text/html'}
+		request = urllib2.Request(url,data=params, headers=headers)
 		response = urllib2.urlopen(request,timeout=to)
 		ln = response.readline()
 		response.close()
