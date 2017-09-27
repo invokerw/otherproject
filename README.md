@@ -9,3 +9,5 @@
 * [Http Get请求与Post请求的相互转换](https://github.com/wfatestaynight/otherproject/tree/master/get_post "Http Get请求与Post请求的相互转换")
 
 * [Mysql的全量增量备份](https://github.com/wfatestaynight/otherproject/tree/master/mysqlbackup "Mysql的全量增量备份")
+
+* [Tolua++实现lua与C++相互调用](https://github.com/wfatestaynight/otherproject/tree/master/tolua++ "lua与C++相互调用")
