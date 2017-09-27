@@ -1,6 +1,6 @@
 /*
 ** Lua binding: student
-** Generated automatically by tolua++-1.0.92 on Wed Sep 27 16:08:49 2017.
+** Generated automatically by tolua++-1.0.92 on Wed Sep 27 16:40:00 2017.
 */
 
 #ifndef __cplusplus
