@@ -11,7 +11,7 @@
     
     make install //可选
     
-## 2.yum 安装 scons //类似于make
+## 2.yum 安装 scons (类似于make)
 
 ## 3.安装tolua++
     解压（修改文件名，把空格去掉）
@@ -40,5 +40,5 @@
         
     安装
     
-        scons install
+        scons install //可选
         
