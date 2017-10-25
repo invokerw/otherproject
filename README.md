@@ -11,3 +11,6 @@
 * [Mysql的全量增量备份](https://github.com/wfatestaynight/otherproject/tree/master/mysqlbackup "Mysql的全量增量备份")
 
 * [Tolua++实现lua与C++相互调用](https://github.com/wfatestaynight/otherproject/tree/master/tolua++ "lua与C++相互调用")
+
+* [A* 寻路](https://github.com/wfatestaynight/otherproject/blob/master/astar/astar.c "A*寻路")
+
