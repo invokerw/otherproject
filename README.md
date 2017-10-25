@@ -12,5 +12,5 @@
 
 * [Tolua++实现lua与C++相互调用](https://github.com/wfatestaynight/otherproject/tree/master/tolua++ "lua与C++相互调用")
 
-* [A* 寻路](https://github.com/wfatestaynight/otherproject/blob/master/astar/astar.c "A*寻路")
+* [A* 寻路算法](https://github.com/wfatestaynight/otherproject/blob/master/astar/astar.c "A*寻路")
 
