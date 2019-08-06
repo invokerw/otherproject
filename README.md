@@ -14,3 +14,5 @@
 
 * [A* 寻路算法](https://github.com/wfatestaynight/otherproject/blob/master/astar/astar.c "A*寻路")
 
+* [一个网页](https://github.com/wfatestaynight/otherproject/blob/master/love/love.html "一个网页")
+
