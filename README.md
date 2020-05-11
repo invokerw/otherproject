@@ -16,5 +16,5 @@
 
 * [一个网页](https://github.com/wfatestaynight/otherproject/blob/master/love/love.html "一个网页")
 
-* [QQ 本地获取cookies登陆qq空间发说说](https://github.com/wfatestaynight/otherproject/blob/master/QQ_login/login.py "QQ 本地获取cookies登陆qq空间发说说")
+
 
